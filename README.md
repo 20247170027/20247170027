@@ -1,5 +1,4 @@
-[![MasterHead](http:<img width="261" height="144" alt="image" src="https://github.com/user-attachments/assets/767fa93f-d592-4856-b7a1-15eddc097450" />
-)
+[![MasterHead](http://www.google.com/imgres?q=yaz%C4%B1l%C4%B1m%20foto&imgurl=https%3A%2F%2Fst.depositphotos.com%2F1003924%2F2502%2Fi%2F450%2Fdepositphotos_25021863-stock-photo-html-web-code.jpg&imgrefurl=https%3A%2F%2Fdepositphotos.com%2Ftr%2Fphotos%2Fbilgisayar-yazilim.html&docid=c5fUUW39aJOjqM&tbnid=6FsE0hZsn55keM&vet=12ahUKEwj3i4DypvCTAxXgVPEDHbrVDX0QnPAOegQIGxAB..i&w=600&h=400&hcb=2&ved=2ahUKEwj3i4DypvCTAxXgVPEDHbrVDX0QnPAOegQIGxAB)
 <h1 align="center">Hi 👋, I'm Davut Can Kızılkaya</h1>
 <h3 align="center">A Computer Engineer from Türkiye</h3>
 
