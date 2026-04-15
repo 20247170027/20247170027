@@ -1,4 +1,4 @@
-[![MasterHead] (http:<img width="580" height="380" alt="image" src="https://github.com/user-attachments/assets/9c869e55-800f-4762-a469-12fccb788e48" />
+[![MasterHead] (https:<img width="580" height="380" alt="image" src="https://github.com/user-attachments/assets/9c869e55-800f-4762-a469-12fccb788e48" />
 )
 <h1 align="center">Hi 👋, I'm Davut Can Kızılkaya</h1>
 <h3 align="center">A Computer Engineer from Türkiye</h3>
